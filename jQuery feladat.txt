@@ -1,0 +1,17 @@
+Beadandó feladat
+Július 30-ig kell beadni.
+
+Hitvallásokat letölteni JSON állományból:
+http://46.101.237.11/json/users.json
+Nem kell minden adat!!
+Kép
+Név
+Hitvallás (greeting)
+
+Testimonial blokkban kell megjeleníteni a fő blokk után rögtön!
+Discover what all the buzz is about rész elé!
+
+Template:
+https://bootsnipp.com/snippets/6X9om
+
+Véletlenszerűen megjeleníteni 5öt!
