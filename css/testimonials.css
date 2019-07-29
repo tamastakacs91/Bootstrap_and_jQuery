@@ -109,6 +109,7 @@
 
 .testim .cont>div.inactive {
     opacity: 1;
+    width: 100%;
 }
 
 

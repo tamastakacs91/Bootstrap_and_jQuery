@@ -13,6 +13,9 @@ let testimData;
 const testimDots = Array.prototype.slice.call(document.getElementById('testim-dots').children);
 let testimContent;
 
+$(window).scroll(function scrollClass() {
+  $('nav').toggleClass('scrolled', $(this).scrollTop() > 1);
+});
 
 const testimonials = {
   getJSONData() {

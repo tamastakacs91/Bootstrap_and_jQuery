@@ -2,6 +2,17 @@
 @import url('https://fonts.googleapis.com/css?family=Catamaran|Muli&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Catamaran|Muli&display=swap');
 
+.scrolled {
+    background-color: #fff;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.scrolled a {
+    color: #5e5e5e !important;
+}
+
 h1,
 h2,
 h3,
